@@ -1,4 +1,6 @@
-# User CRUD
+# Users CRUD
+
+Users CRUD with redux toolkit and material UI
 
 ## Quick start ⚙️
 
