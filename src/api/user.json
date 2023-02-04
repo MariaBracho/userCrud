@@ -1,0 +1,30 @@
+[
+  {
+    "id":1,
+    "name": "Ana",
+    "lastName":"Rojas",
+    "phoneNumber":"0414-453254",
+    "age": 20
+  },
+  {
+    "id":2,
+    "name": "Mario",
+    "lastName":"roble",
+    "phoneNumber":"0414-453256",
+    "age": 24
+  },
+  {
+    "id":3,
+    "name": "Manuel",
+    "lastName":"Villa",
+    "phoneNumber":"0414-454256",
+    "age": 12
+  },
+  {
+    "id":4,
+    "name": "Sofia",
+    "lastName":"Pernalete",
+    "phoneNumber":"0414-453256",
+    "age": 12
+  }
+]
